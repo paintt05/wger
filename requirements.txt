@@ -44,4 +44,4 @@ djangorestframework-simplejwt[crypto]==5.5.0
 
 # Not used anymore, but needed because some modules are imported in DB migration
 # files
-django-sortedm2m~=3.1
+django-sortedm2m~=4.0
